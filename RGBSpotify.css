@@ -9,7 +9,6 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 */
 
 /* === Account Overview  === */
-
 /* == Rainbow Spotify Logo == */
 .svelte-1gcdbl9 {
     color: white;
@@ -17,7 +16,9 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 }
 
 /* ==  Profile informtaion == */
-.Type__TypeElement-sc-9snywk-0, .jzaYYa, .Page__title--TbL6e {
+.Type__TypeElement-sc-9snywk-0,
+.jzaYYa,
+.Page__title--TbL6e {
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -34,85 +35,130 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 }
 
 /* ==  Menu for your profile == */
-
 /* =  User icon = */
-.sidebar .user-icon, .Menu__userIcon--1JcsY {
+.sidebar .user-icon,
+.Menu__userIcon--1JcsY {
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 /* =  Text in menu = */
-.Menu__menuLink--3F9Kb{
+.Menu__menuLink--3F9Kb {
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* =  Icons in menu = */
-.nav-tabs.nav-stacked svg, .Menu__icon--2YGXY {
+.nav-tabs.nav-stacked svg,
+.Menu__icon--2YGXY {
     color: white;
     animation: fill 5s linear 0s infinite alternate;
 }
 
-/* =  Active menu background = */
+/* = Active menu background = */
 .Menu__active--30Fs0 {
-    background: white;
+    color: white;
+    animation: backgroundli 5s linear 0s infinite alternate;
 }
 
 /* == Premium information == */
-
 /* =  background color = */
-.bscLUE {
-    background: white;
+.sc-cxFLnm, .hzeuvL {
+    color: white;
+    animation: backgroundli 5s linear 0s infinite alternate;
 }
 
 /* =  purchase premium button = */
-.jVBKEP { 
+.jVBKEP {
     color: white;
-    animation: background 5s linear 0s infinite alternate;    
+    animation: background 5s linear 0s infinite alternate;
 }
 
 /* =  Links, and premium information text = */
-.sc-iktFzd, .gaGeRK, .cUkLrH a {
+.sc-iktFzd,
+.gaGeRK,
+.cUkLrH a {
     color: white;
-    animation: text 5s linear 0s infinite alternate;    
+    animation: text 5s linear 0s infinite alternate;
 }
 
 /* == Premium subscription == */
-
 /* = Background color = */
 .cNRKYC {
     background: black;
-} 
+}
 
 /* = text RGB = */
 .cNRKYC {
     background: black;
 }
 
-.sc-hKgILt, .ktdUVV {
+.sc-hKgILt,
+.ktdUVV {
     color: white;
-    animation: text 5s linear 0s infinite alternate;        
+    animation: text 5s linear 0s infinite alternate;
 }
 
 /* === Hover === */
-
 /* = Profile picture = */
 .svelte-8gzfq1 {
     color: white;
-    animation: text 5s linear 0s infinite alternate;    
+    animation: text 5s linear 0s infinite alternate;
 }
 
 /* = Profile settings = */
 .svelte-kdyqkb {
     color: white;
-    animation: text 5s linear 0s infinite alternate;   
+    animation: text 5s linear 0s infinite alternate;
 }
 
 /* = Hover buttons = */
-.mh-header-primary, .svelte-vf0pv9 {
+.mh-header-primary,
+.svelte-vf0pv9 {
     color: white;
-    animation: text 5s linear 0s infinite alternate;      
+    animation: text 5s linear 0s infinite alternate;
 }
+
+/* === Socials === */
+/* = Instagram = */
+.mh-social-icon-instagram {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* = Twitter = */
+.mh-social-icon-twitter {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* = Facebook = */
+.mh-social-icon-facebook {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* === County and li down === */
+.mh-country,
+.mh-footer-secondary,
+.mh-compact,
+.svelte-1ouzkfx {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* === © 2020 Spotify AB === */
+.svelte-1so9ic8 {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;    
+}
+
+/* === li text === */
+.svelte-12h6dnj {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;       
+}
+
 
 
 
@@ -197,6 +243,43 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     }
     91% {
         background-color: rgb(255, 0, 127);
+    }
+}
+
+/* Transparent rainbow background */
+ @keyframes backgroundli {
+     0% {
+         background-color: #ff000042;
+    }
+     10% {
+         background-color: #ff800042;
+    }
+     20% {
+         background-color: #ffff0042;
+    }
+     30% {
+         background-color: #80ff0042;
+    }
+     40% {
+         background-color: #00ff0042;
+    }
+     50% {
+         background-color: #00ff8042;
+    }
+     60% {
+         background-color: #00ffff42;
+    }
+     70% {
+         background-color: #0080ff42;
+    }
+     80% {
+         background-color: #0000ff42;
+    }
+     90% {
+         background-color: #8000ff42;
+    }
+     100% {
+         background-color: #ff008042;
     }
 }
 
