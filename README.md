@@ -1,0 +1,2 @@
+# RainbowSpotify
+Rainbow Spotify theme
