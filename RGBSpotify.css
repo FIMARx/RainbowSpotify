@@ -55,12 +55,6 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     animation: fill 5s linear 0s infinite alternate;
 }
 
-/* = Active menu background = */
-.Menu__active--30Fs0 {
-    color: white;
-    animation: backgroundli 5s linear 0s infinite alternate;
-}
-
 /* == Premium information == */
 /* =  background color = */
 .sc-cxFLnm,
@@ -160,10 +154,77 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     animation: text 5s linear 0s infinite alternate;
 }
 
+/* === Profile === */
+.kUFerS {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
 
+.gDJLCl {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
 
+.dqmtLK {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
 
+.eJOcx {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
 
+.gBYMyb {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+/* === Notification settings === */
+.page-header h1,
+.privacy-section-header h2 {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* WTF you spotify are doing?? Are you dumb fuck? */
+.nav-inverse.nav-stacked > li.active > a,
+.nav-inverse.nav-stacked > li.active > a:focus,
+.nav-inverse.nav-stacked > li.active > a:hover,
+.nav-inverse.nav-stacked > li.active > a:active {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.nav-tabs.nav-stacked > li > a {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.submenu-item-notification-settings {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+.form-notifications table thead th:first-child {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.notification-type {
+    color: white;
+    animation: textli 5s linear 0s infinite alternate;
+}
+
+.btn-cancel {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.btn-green, .btn-primary, .navbar .navbar-nav .btn-green, .navbar .navbar-nav .btn-primary {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}    
 
 /* KeyFrames for text */
 @keyframes text {
@@ -271,48 +332,105 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 
 /* Transparent rainbow background */
 @keyframes backgroundli {
+    100%,
     0% {
-        background-color: #ff000042;
+        background-color: rgba(255, 0, 0, .3);
     }
 
-    10% {
-        background-color: #ff800042;
+    8% {
+        background-color: rgba(255, 127, 0, .3);
     }
 
-    20% {
-        background-color: #ffff0042;
+    16% {
+        background-color: rgba(255, 255, 0, .3);
     }
 
-    30% {
-        background-color: #80ff0042;
+    25% {
+        background-color: rgba(127, 255, 0, .3);
     }
 
-    40% {
-        background-color: #00ff0042;
+    33% {
+        background-color: rgba(0, 255, 0, .3);
+    }
+
+    41% {
+        background-color: rgba(0, 255, 127, .3);
     }
 
     50% {
-        background-color: #00ff8042;
+        background-color: rgba(0, 255, 255, .3);
     }
 
-    60% {
-        background-color: #00ffff42;
+    58% {
+        background-color: rgba(0, 127, 255, .3);
     }
 
-    70% {
-        background-color: #0080ff42;
+    66% {
+        background-color: rgba(0, 0, 255, .3);
     }
 
-    80% {
-        background-color: #0000ff42;
+    75% {
+        background-color: rgba(127, 0, 255, .3);
     }
 
-    90% {
-        background-color: #8000ff42;
+    83% {
+        background-color: rgba(255, 0, 255, .3);
     }
 
-    100% {
-        background-color: #ff008042;
+    91% {
+        background-color: rgba(255, 0, 127, .3);
+    }
+}
+
+/* Transparent rainbow text */
+@keyframes textli {
+    100%,
+    0% {
+        color: rgba(255, 0, 0, .3);
+    }
+
+    8% {
+        color: rgba(255, 127, 0, .3);
+    }
+
+    16% {
+        color: rgba(255, 255, 0, .3);
+    }
+
+    25% {
+        color: rgba(127, 255, 0, .3);
+    }
+
+    33% {
+        color: rgba(0, 255, 0, .3);
+    }
+
+    41% {
+        color: rgba(0, 255, 127, .3);
+    }
+
+    50% {
+        color: rgba(0, 255, 255, .3);
+    }
+
+    58% {
+        color: rgba(0, 127, 255, .3);
+    }
+
+    66% {
+        color: rgba(0, 0, 255, .3);
+    }
+
+    75% {
+        color: rgba(127, 0, 255, .3);
+    }
+
+    83% {
+        color: rgba(255, 0, 255, .3);
+    }
+
+    91% {
+        color: rgba(255, 0, 127, .3);
     }
 }
 
