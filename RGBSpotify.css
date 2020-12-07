@@ -1,10 +1,7 @@
 /*
 This style is made by FIMARx.
-
 Dm my discord for help. FIMARx#1321
-
 Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg
-
 Join my discord server https://discord.gg/xC3ZrYXqnM
 */
 
@@ -15,6 +12,49 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: fill 5s linear 0s infinite alternate;
 }
+
+/* ==  Profile informtaion == */
+.Type__TypeElement-sc-9snywk-0, .jzaYYa, .Page__title--TbL6e {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* ==  Menu for your profile == */
+
+/* =  Text in menu = */
+.Menu__menuLink--3F9Kb{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* =  Icons in menu = */
+.nav-tabs.nav-stacked svg, .Menu__icon--2YGXY {
+    color: white;
+    animation: fill 5s linear 0s infinite alternate;
+}
+
+/* =  Active menu background = */
+.Menu__menuLink--3F9Kb {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+/* == Premium information == */
+
+/* =  background color = */
+.bscLUE {
+    background: white;
+}
+
+/* =  purchase premium button = */
+.jVBKEP { 
+    color: white;
+    animation: background 5s linear 0s infinite alternate;    
+}
+
+
+
+
 
 /* KeyFrames for text */
 @keyframes text {
@@ -56,6 +96,7 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
         color: rgb(255, 0, 127);
     }
 }
+
 /* KeyFrames for backgrounds */
 @keyframes background {
     100%,
@@ -96,7 +137,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
         background-color: rgb(255, 0, 127);
     }
 }
-/* fills */
+
+/* KeyFrames for fills */
 @keyframes fill {
     100%,
     0% {
