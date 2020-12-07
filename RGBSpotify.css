@@ -7,7 +7,6 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
 
 Join my discord server https://discord.gg/xC3ZrYXqnM
 */
-
 /* === Account Overview  === */
 /* == Rainbow Spotify Logo == */
 .svelte-1gcdbl9 {
@@ -28,6 +27,7 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
+
 /* =  Buttons etc... = */
 .CTA__secondary--FVl7a {
     color: white;
@@ -63,7 +63,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 
 /* == Premium information == */
 /* =  background color = */
-.sc-cxFLnm, .hzeuvL {
+.sc-cxFLnm,
+.hzeuvL {
     color: white;
     animation: backgroundli 5s linear 0s infinite alternate;
 }
@@ -150,13 +151,13 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 /* === © 2020 Spotify AB === */
 .svelte-1so9ic8 {
     color: white;
-    animation: text 5s linear 0s infinite alternate;    
+    animation: text 5s linear 0s infinite alternate;
 }
 
 /* === li text === */
 .svelte-12h6dnj {
     color: white;
-    animation: text 5s linear 0s infinite alternate;       
+    animation: text 5s linear 0s infinite alternate;
 }
 
 
@@ -170,36 +171,47 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     0% {
         color: rgb(255, 0, 0);
     }
+
     8% {
         color: rgb(255, 127, 0);
     }
+
     16% {
         color: rgb(255, 255, 0);
     }
+
     25% {
         color: rgb(127, 255, 0);
     }
+
     33% {
         color: rgb(0, 255, 0);
     }
+
     41% {
         color: rgb(0, 255, 127);
     }
+
     50% {
         color: rgb(0, 255, 255);
     }
+
     58% {
         color: rgb(0, 127, 255);
     }
+
     66% {
         color: rgb(0, 0, 255);
     }
+
     75% {
         color: rgb(127, 0, 255);
     }
+
     83% {
         color: rgb(255, 0, 255);
     }
+
     91% {
         color: rgb(255, 0, 127);
     }
@@ -211,75 +223,96 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     0% {
         background-color: rgb(255, 0, 0);
     }
+
     8% {
         background-color: rgb(255, 127, 0);
     }
+
     16% {
         background-color: rgb(255, 255, 0);
     }
+
     25% {
         background-color: rgb(127, 255, 0);
     }
+
     33% {
         background-color: rgb(0, 255, 0);
     }
+
     41% {
         background-color: rgb(0, 255, 127);
     }
+
     50% {
         background-color: rgb(0, 255, 255);
     }
+
     58% {
         background-color: rgb(0, 127, 255);
     }
+
     66% {
         background-color: rgb(0, 0, 255);
     }
+
     75% {
         background-color: rgb(127, 0, 255);
     }
+
     83% {
         background-color: rgb(255, 0, 255);
     }
+
     91% {
         background-color: rgb(255, 0, 127);
     }
 }
 
 /* Transparent rainbow background */
- @keyframes backgroundli {
-     0% {
-         background-color: #ff000042;
+@keyframes backgroundli {
+    0% {
+        background-color: #ff000042;
     }
-     10% {
-         background-color: #ff800042;
+
+    10% {
+        background-color: #ff800042;
     }
-     20% {
-         background-color: #ffff0042;
+
+    20% {
+        background-color: #ffff0042;
     }
-     30% {
-         background-color: #80ff0042;
+
+    30% {
+        background-color: #80ff0042;
     }
-     40% {
-         background-color: #00ff0042;
+
+    40% {
+        background-color: #00ff0042;
     }
-     50% {
-         background-color: #00ff8042;
+
+    50% {
+        background-color: #00ff8042;
     }
-     60% {
-         background-color: #00ffff42;
+
+    60% {
+        background-color: #00ffff42;
     }
-     70% {
-         background-color: #0080ff42;
+
+    70% {
+        background-color: #0080ff42;
     }
-     80% {
-         background-color: #0000ff42;
+
+    80% {
+        background-color: #0000ff42;
     }
-     90% {
-         background-color: #8000ff42;
+
+    90% {
+        background-color: #8000ff42;
     }
-     100% {
-         background-color: #ff008042;
+
+    100% {
+        background-color: #ff008042;
     }
 }
 
@@ -289,36 +322,47 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     0% {
         fill: rgb(255, 0, 0);
     }
+
     8% {
         fill: rgb(255, 127, 0);
     }
+
     16% {
         fill: rgb(255, 255, 0);
     }
+
     25% {
         fill: rgb(127, 255, 0);
     }
+
     33% {
         fill: rgb(0, 255, 0);
     }
+
     41% {
         fill: rgb(0, 255, 127);
     }
+
     50% {
         fill: rgb(0, 255, 255);
     }
+
     58% {
         fill: rgb(0, 127, 255);
     }
+
     66% {
         fill: rgb(0, 0, 255);
     }
+
     75% {
         fill: rgb(127, 0, 255);
     }
+
     83% {
         fill: rgb(255, 0, 255);
     }
+
     91% {
         fill: rgb(255, 0, 127);
     }
