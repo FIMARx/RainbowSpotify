@@ -1,14 +1,17 @@
 /*
 This style is made by FIMARx.
+
 Dm my discord for help. FIMARx#1321
+
 Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg
+
 Join my discord server https://discord.gg/xC3ZrYXqnM
 */
 
 /* === Account Overview  === */
 
 /* == Rainbow Spotify Logo == */
-.svelte-1gcdbl9{
+.svelte-1gcdbl9 {
     color: white;
     animation: fill 5s linear 0s infinite alternate;
 }
@@ -19,7 +22,24 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     animation: text 5s linear 0s infinite alternate;
 }
 
+/* =  Information bold text = */
+.XavQL {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+/* =  Buttons etc... = */
+.CTA__secondary--FVl7a {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
 /* ==  Menu for your profile == */
+
+/* =  User icon = */
+.sidebar .user-icon, .Menu__userIcon--1JcsY {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
 
 /* =  Text in menu = */
 .Menu__menuLink--3F9Kb{
@@ -34,9 +54,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 }
 
 /* =  Active menu background = */
-.Menu__menuLink--3F9Kb {
-    color: white;
-    animation: text 5s linear 0s infinite alternate;
+.Menu__active--30Fs0 {
+    background: white;
 }
 
 /* == Premium information == */
@@ -50,6 +69,49 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .jVBKEP { 
     color: white;
     animation: background 5s linear 0s infinite alternate;    
+}
+
+/* =  Links, and premium information text = */
+.sc-iktFzd, .gaGeRK, .cUkLrH a {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;    
+}
+
+/* == Premium subscription == */
+
+/* = Background color = */
+.cNRKYC {
+    background: black;
+} 
+
+/* = text RGB = */
+.cNRKYC {
+    background: black;
+}
+
+.sc-hKgILt, .ktdUVV {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;        
+}
+
+/* === Hover === */
+
+/* = Profile picture = */
+.svelte-8gzfq1 {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;    
+}
+
+/* = Profile settings = */
+.svelte-kdyqkb {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;   
+}
+
+/* = Hover buttons = */
+.mh-header-primary, .svelte-vf0pv9 {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;      
 }
 
 
