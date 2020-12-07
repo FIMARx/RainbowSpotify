@@ -1,5 +1,5 @@
 __________
-# Rainbow YouTube
+# Rainbow Spotify
 __________
 
 *A rainbow spotify theme working with the extension **stylus***
