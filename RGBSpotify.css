@@ -8,5 +8,131 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
 Join my discord server https://discord.gg/xC3ZrYXqnM
 */
 
-/* Code is coming soon! 
-Under work now! */
+/* === Account Overview  === */
+
+/* == Rainbow Spotify Logo == */
+.svelte-1gcdbl9{
+    color: white;
+    animation: fill 5s linear 0s infinite alternate;
+}
+
+/* KeyFrames for text */
+@keyframes text {
+    100%,
+    0% {
+        color: rgb(255, 0, 0);
+    }
+    8% {
+        color: rgb(255, 127, 0);
+    }
+    16% {
+        color: rgb(255, 255, 0);
+    }
+    25% {
+        color: rgb(127, 255, 0);
+    }
+    33% {
+        color: rgb(0, 255, 0);
+    }
+    41% {
+        color: rgb(0, 255, 127);
+    }
+    50% {
+        color: rgb(0, 255, 255);
+    }
+    58% {
+        color: rgb(0, 127, 255);
+    }
+    66% {
+        color: rgb(0, 0, 255);
+    }
+    75% {
+        color: rgb(127, 0, 255);
+    }
+    83% {
+        color: rgb(255, 0, 255);
+    }
+    91% {
+        color: rgb(255, 0, 127);
+    }
+}
+/* KeyFrames for backgrounds */
+@keyframes background {
+    100%,
+    0% {
+        background-color: rgb(255, 0, 0);
+    }
+    8% {
+        background-color: rgb(255, 127, 0);
+    }
+    16% {
+        background-color: rgb(255, 255, 0);
+    }
+    25% {
+        background-color: rgb(127, 255, 0);
+    }
+    33% {
+        background-color: rgb(0, 255, 0);
+    }
+    41% {
+        background-color: rgb(0, 255, 127);
+    }
+    50% {
+        background-color: rgb(0, 255, 255);
+    }
+    58% {
+        background-color: rgb(0, 127, 255);
+    }
+    66% {
+        background-color: rgb(0, 0, 255);
+    }
+    75% {
+        background-color: rgb(127, 0, 255);
+    }
+    83% {
+        background-color: rgb(255, 0, 255);
+    }
+    91% {
+        background-color: rgb(255, 0, 127);
+    }
+}
+/* fills */
+@keyframes fill {
+    100%,
+    0% {
+        fill: rgb(255, 0, 0);
+    }
+    8% {
+        fill: rgb(255, 127, 0);
+    }
+    16% {
+        fill: rgb(255, 255, 0);
+    }
+    25% {
+        fill: rgb(127, 255, 0);
+    }
+    33% {
+        fill: rgb(0, 255, 0);
+    }
+    41% {
+        fill: rgb(0, 255, 127);
+    }
+    50% {
+        fill: rgb(0, 255, 255);
+    }
+    58% {
+        fill: rgb(0, 127, 255);
+    }
+    66% {
+        fill: rgb(0, 0, 255);
+    }
+    75% {
+        fill: rgb(127, 0, 255);
+    }
+    83% {
+        fill: rgb(255, 0, 255);
+    }
+    91% {
+        fill: rgb(255, 0, 127);
+    }
+}
