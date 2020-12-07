@@ -221,10 +221,54 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     animation: text 5s linear 0s infinite alternate;
 }
 
-.btn-green, .btn-primary, .navbar .navbar-nav .btn-green, .navbar .navbar-nav .btn-primary {
+.btn-green,
+.btn-primary,
+.navbar .navbar-nav .btn-green,
+.navbar .navbar-nav .btn-primary {
     color: white;
     animation: background 5s linear 0s infinite alternate;
-}    
+}
+
+.navbar-highlight-white,
+.svelte-1i2hclv {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.takeover .projectRamses-hero,
+.gNQnWe.gNQnWe {
+    color: white;
+    animation: backgroundli 5s linear 0s infinite alternate;
+}
+
+.h1 {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+h4,
+p.lead {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.hidden-xs,
+.hidden-sm {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.takeover .takeover-hero h3 {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.btn,
+.navbar .navbar-nav .navbar-btn {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
 
 /* KeyFrames for text */
 @keyframes text {
