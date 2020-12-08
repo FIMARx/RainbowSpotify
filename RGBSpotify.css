@@ -269,6 +269,109 @@ p.lead {
     animation: text 5s linear 0s infinite alternate;
 }
 
+.spotify-logo--text {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.bf1bfc9796b0e84ceb631046c90df713-scss,
+._6fe5d5efc9b4a07d5c424071ac7cdacb-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._3e75c7f07bdce28b37b45a5cd74ff371-scss,
+.e3aa92f469b361e8246e422f5f779ed4-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._9642f084eaa7faec9f8f003145b6c289-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.icon,
+.home-icon {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._616428513162d26fc5af27cd269cb973-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._28160026e8be14060f22ead8e2af36f5-scss {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+.link-subtle,
+._47872eede19af06725157ba21fea3516-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._3f37264be67c8f40fa9f76449afdb4bd-scss,
+._110dbc41d89af63f97cdd8b7cd7fea47-scss,
+._186766435454b6e18fec29440fbb9fc4-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._07bed3a434fa59aa1852a431bf2e19cb-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.b6d18e875efadd20e8d037931d535319-scss a:link,
+.b6d18e875efadd20e8d037931d535319-scss a:visited {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._605821ce181f6de6632eabd6a46377fb-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.a12b67e576d73f97c44f1f37026223c4-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.bab4e7e0003c98b59e58b925d59840f8-scss,
+.d043401fc6c1247d9bab1d03fb554b48-scss,
+.b4b36569a9650c59003ec88a4551c3ea-scss,
+._7fccf2efe6726e6281233b60b6d78f1b-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._2b067c7a307d670c6b228bc3f783c022-scss,
+.f6a6c11d18da1af699a0464367e2189a-scss,
+._0462465b64c9df5f31f2601f892b57d3-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._8e7d398e09c25b24232d92aac8a15a81-scss,
+.e8b2fe03d4e4726484b879ed8ff6f096-scss {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+.e6a8097cf1730653c998b6c217f22180-scss,
+.d4e605b704072b48bba794842cb8f78a-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._7c993111016a33a158645119f8a6fb12-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
 
 /* KeyFrames for text */
 @keyframes text {
