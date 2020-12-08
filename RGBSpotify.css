@@ -373,6 +373,65 @@ p.lead {
     animation: text 5s linear 0s infinite alternate;
 }
 
+._99bbcff33ae810da0bfc335662ae2c1d-scss,
+._8a9c5cc886805907de5073b8ebc3acd8-scss,
+.ec1b5762556429ac3aeedbae72433491-scss,
+._966e29b71d2654743538480947a479b3-scss,
+.standalone-ellipsis-one-line,
+.f3fc214b257ae2f1d43d4c594a94497f-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._94c80de399d6a1146750abccf661f480-scss {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+._5f899d811cf206c5925f6450626fb0aa-scss,
+._966e29b71d2654743538480947a479b3-scss a,
+.c6287512c50a737d01bd9db32b301fab-scss a {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._82ba3fb528bb730b297a91f46acd37a3-scss {
+    background: black;
+}
+
+.Svg-ulyrgf-0,
+.hJgLcF,
+.control-button {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.progress-bar__fg_wrapper {
+    color: white;
+    animation: backgroundli 5s linear 0s infinite alternate;
+}
+
+.progress-bar__slider {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+.progress-bar__fg {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+
+.c65f5ba184497ced74470e887c6a95c3-scss,
+._15b259574e48922b106bc4b01521f33b-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._494acef8821cbe69e59a091ea7692360-scss {
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
 /* KeyFrames for text */
 @keyframes text {
     100%,
