@@ -9,7 +9,8 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 */
 /* === Account Overview  === */
 /* == Rainbow Spotify Logo == */
-.svelte-1gcdbl9 {
+.svelte-1gcdbl9
+{
     color: white;
     animation: fill 5s linear 0s infinite alternate;
 }
@@ -17,19 +18,22 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 /* ==  Profile informtaion == */
 .Type__TypeElement-sc-9snywk-0,
 .jzaYYa,
-.Page__title--TbL6e {
+.Page__title--TbL6e
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* =  Information bold text = */
-.XavQL {
+.XavQL
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* =  Buttons etc... = */
-.CTA__secondary--FVl7a {
+.CTA__secondary--FVl7a
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -37,20 +41,23 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 /* ==  Menu for your profile == */
 /* =  User icon = */
 .sidebar .user-icon,
-.Menu__userIcon--1JcsY {
+.Menu__userIcon--1JcsY
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 /* =  Text in menu = */
-.Menu__menuLink--3F9Kb {
+.Menu__menuLink--3F9Kb
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* =  Icons in menu = */
 .nav-tabs.nav-stacked svg,
-.Menu__icon--2YGXY {
+.Menu__icon--2YGXY
+{
     color: white;
     animation: fill 5s linear 0s infinite alternate;
 }
@@ -58,13 +65,15 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 /* == Premium information == */
 /* =  background color = */
 .sc-cxFLnm,
-.hzeuvL {
+.hzeuvL
+{
     color: white;
     animation: backgroundli 5s linear 0s infinite alternate;
 }
 
 /* =  purchase premium button = */
-.jVBKEP {
+.jVBKEP
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
@@ -72,63 +81,73 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 /* =  Links, and premium information text = */
 .sc-iktFzd,
 .gaGeRK,
-.cUkLrH a {
+.cUkLrH a
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* == Premium subscription == */
 /* = Background color = */
-.cNRKYC {
+.cNRKYC
+{
     background: black;
 }
 
 /* = text RGB = */
-.cNRKYC {
+.cNRKYC
+{
     background: black;
 }
 
 .sc-hKgILt,
-.ktdUVV {
+.ktdUVV
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* === Hover === */
 /* = Profile picture = */
-.svelte-8gzfq1 {
+.svelte-8gzfq1
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* = Profile settings = */
-.svelte-kdyqkb {
+.svelte-kdyqkb
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* = Hover buttons = */
 .mh-header-primary,
-.svelte-vf0pv9 {
+.svelte-vf0pv9
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* === Socials === */
 /* = Instagram = */
-.mh-social-icon-instagram {
+.mh-social-icon-instagram
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* = Twitter = */
-.mh-social-icon-twitter {
+.mh-social-icon-twitter
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* = Facebook = */
-.mh-social-icon-facebook {
+.mh-social-icon-facebook
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -137,52 +156,61 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .mh-country,
 .mh-footer-secondary,
 .mh-compact,
-.svelte-1ouzkfx {
+.svelte-1ouzkfx
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* === © 2020 Spotify AB === */
-.svelte-1so9ic8 {
+.svelte-1so9ic8
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* === li text === */
-.svelte-12h6dnj {
+.svelte-12h6dnj
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* === Profile === */
-.kUFerS {
+.kUFerS
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.gDJLCl {
+.gDJLCl
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
-.dqmtLK {
+.dqmtLK
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.eJOcx {
+.eJOcx
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.gBYMyb {
+.gBYMyb
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 /* === Notification settings === */
 .page-header h1,
-.privacy-section-header h2 {
+.privacy-section-header h2
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -191,32 +219,38 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .nav-inverse.nav-stacked > li.active > a,
 .nav-inverse.nav-stacked > li.active > a:focus,
 .nav-inverse.nav-stacked > li.active > a:hover,
-.nav-inverse.nav-stacked > li.active > a:active {
+.nav-inverse.nav-stacked > li.active > a:active
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.nav-tabs.nav-stacked > li > a {
+.nav-tabs.nav-stacked > li > a
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.submenu-item-notification-settings {
+.submenu-item-notification-settings
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
-.form-notifications table thead th:first-child {
+.form-notifications table thead th:first-child
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.notification-type {
+.notification-type
+{
     color: white;
     animation: textli 5s linear 0s infinite alternate;
 }
 
-.btn-cancel {
+.btn-cancel
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -224,119 +258,140 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
 .btn-green,
 .btn-primary,
 .navbar .navbar-nav .btn-green,
-.navbar .navbar-nav .btn-primary {
+.navbar .navbar-nav .btn-primary
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 .navbar-highlight-white,
-.svelte-1i2hclv {
+.svelte-1i2hclv
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 .takeover .projectRamses-hero,
-.gNQnWe.gNQnWe {
+.gNQnWe.gNQnWe
+{
     color: white;
     animation: backgroundli 5s linear 0s infinite alternate;
 }
 
-.h1 {
+.h1
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 h4,
-p.lead {
+p.lead
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 .hidden-xs,
-.hidden-sm {
+.hidden-sm
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.takeover .takeover-hero h3 {
+.takeover .takeover-hero h3
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 .btn,
-.navbar .navbar-nav .navbar-btn {
+.navbar .navbar-nav .navbar-btn
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.spotify-logo--text {
+.spotify-logo--text
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 .bf1bfc9796b0e84ceb631046c90df713-scss,
-._6fe5d5efc9b4a07d5c424071ac7cdacb-scss {
+._6fe5d5efc9b4a07d5c424071ac7cdacb-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 ._3e75c7f07bdce28b37b45a5cd74ff371-scss,
-.e3aa92f469b361e8246e422f5f779ed4-scss {
+.e3aa92f469b361e8246e422f5f779ed4-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._9642f084eaa7faec9f8f003145b6c289-scss {
+._9642f084eaa7faec9f8f003145b6c289-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 .icon,
-.home-icon {
+.home-icon
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._616428513162d26fc5af27cd269cb973-scss {
+._616428513162d26fc5af27cd269cb973-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._28160026e8be14060f22ead8e2af36f5-scss {
+._28160026e8be14060f22ead8e2af36f5-scss
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 .link-subtle,
-._47872eede19af06725157ba21fea3516-scss {
+._47872eede19af06725157ba21fea3516-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 ._3f37264be67c8f40fa9f76449afdb4bd-scss,
 ._110dbc41d89af63f97cdd8b7cd7fea47-scss,
-._186766435454b6e18fec29440fbb9fc4-scss {
+._186766435454b6e18fec29440fbb9fc4-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._07bed3a434fa59aa1852a431bf2e19cb-scss {
+._07bed3a434fa59aa1852a431bf2e19cb-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 .b6d18e875efadd20e8d037931d535319-scss a:link,
-.b6d18e875efadd20e8d037931d535319-scss a:visited {
+.b6d18e875efadd20e8d037931d535319-scss a:visited
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._605821ce181f6de6632eabd6a46377fb-scss {
+._605821ce181f6de6632eabd6a46377fb-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.a12b67e576d73f97c44f1f37026223c4-scss {
+.a12b67e576d73f97c44f1f37026223c4-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -344,31 +399,36 @@ p.lead {
 .bab4e7e0003c98b59e58b925d59840f8-scss,
 .d043401fc6c1247d9bab1d03fb554b48-scss,
 .b4b36569a9650c59003ec88a4551c3ea-scss,
-._7fccf2efe6726e6281233b60b6d78f1b-scss {
+._7fccf2efe6726e6281233b60b6d78f1b-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 ._2b067c7a307d670c6b228bc3f783c022-scss,
 .f6a6c11d18da1af699a0464367e2189a-scss,
-._0462465b64c9df5f31f2601f892b57d3-scss {
+._0462465b64c9df5f31f2601f892b57d3-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 ._8e7d398e09c25b24232d92aac8a15a81-scss,
-.e8b2fe03d4e4726484b879ed8ff6f096-scss {
+.e8b2fe03d4e4726484b879ed8ff6f096-scss
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 .e6a8097cf1730653c998b6c217f22180-scss,
-.d4e605b704072b48bba794842cb8f78a-scss {
+.d4e605b704072b48bba794842cb8f78a-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._7c993111016a33a158645119f8a6fb12-scss {
+._7c993111016a33a158645119f8a6fb12-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
@@ -378,316 +438,421 @@ p.lead {
 .ec1b5762556429ac3aeedbae72433491-scss,
 ._966e29b71d2654743538480947a479b3-scss,
 .standalone-ellipsis-one-line,
-.f3fc214b257ae2f1d43d4c594a94497f-scss {
+.f3fc214b257ae2f1d43d4c594a94497f-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._94c80de399d6a1146750abccf661f480-scss {
+._94c80de399d6a1146750abccf661f480-scss
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 ._5f899d811cf206c5925f6450626fb0aa-scss,
 ._966e29b71d2654743538480947a479b3-scss a,
-.c6287512c50a737d01bd9db32b301fab-scss a {
+.c6287512c50a737d01bd9db32b301fab-scss a
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._82ba3fb528bb730b297a91f46acd37a3-scss {
+._82ba3fb528bb730b297a91f46acd37a3-scss
+{
     background: black;
 }
 
 .Svg-ulyrgf-0,
 .hJgLcF,
-.control-button {
+.control-button
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-.progress-bar__fg_wrapper {
+.progress-bar__fg_wrapper
+{
     color: white;
     animation: backgroundli 5s linear 0s infinite alternate;
 }
 
-.progress-bar__slider {
+.progress-bar__slider
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
-.progress-bar__fg {
+.progress-bar__fg
+{
     color: white;
     animation: background 5s linear 0s infinite alternate;
 }
 
 .c65f5ba184497ced74470e887c6a95c3-scss,
-._15b259574e48922b106bc4b01521f33b-scss {
+._15b259574e48922b106bc4b01521f33b-scss
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
-._494acef8821cbe69e59a091ea7692360-scss {
+._494acef8821cbe69e59a091ea7692360-scss
+{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._8e566af0d3a8e6834c933615bbb634ba-scss
+{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.c5d42a6a1f132e80cad79e45193e9e80-scss
+{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._63fcb5e7d6356a1883a28b9eac119caa-scss
+{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+.b490086127ec0ecdc7b170c03de9c5b1-scss
+{
+    color: white;
+    animation: text 5s linear 0s infinite alternate;
+}
+
+._3cfbde1fd9fecaaa77935664eeb6e346-scss a
+{
     color: white;
     animation: text 5s linear 0s infinite alternate;
 }
 
 /* KeyFrames for text */
-@keyframes text {
+@keyframes text
+{
     100%,
-    0% {
+    0%
+    {
         color: rgb(255, 0, 0);
     }
 
-    8% {
+    8%
+    {
         color: rgb(255, 127, 0);
     }
 
-    16% {
+    16%
+    {
         color: rgb(255, 255, 0);
     }
 
-    25% {
+    25%
+    {
         color: rgb(127, 255, 0);
     }
 
-    33% {
+    33%
+    {
         color: rgb(0, 255, 0);
     }
 
-    41% {
+    41%
+    {
         color: rgb(0, 255, 127);
     }
 
-    50% {
+    50%
+    {
         color: rgb(0, 255, 255);
     }
 
-    58% {
+    58%
+    {
         color: rgb(0, 127, 255);
     }
 
-    66% {
+    66%
+    {
         color: rgb(0, 0, 255);
     }
 
-    75% {
+    75%
+    {
         color: rgb(127, 0, 255);
     }
 
-    83% {
+    83%
+    {
         color: rgb(255, 0, 255);
     }
 
-    91% {
+    91%
+    {
         color: rgb(255, 0, 127);
     }
 }
 
 /* KeyFrames for backgrounds */
-@keyframes background {
+@keyframes background
+{
     100%,
-    0% {
+    0%
+    {
         background-color: rgb(255, 0, 0);
     }
 
-    8% {
+    8%
+    {
         background-color: rgb(255, 127, 0);
     }
 
-    16% {
+    16%
+    {
         background-color: rgb(255, 255, 0);
     }
 
-    25% {
+    25%
+    {
         background-color: rgb(127, 255, 0);
     }
 
-    33% {
+    33%
+    {
         background-color: rgb(0, 255, 0);
     }
 
-    41% {
+    41%
+    {
         background-color: rgb(0, 255, 127);
     }
 
-    50% {
+    50%
+    {
         background-color: rgb(0, 255, 255);
     }
 
-    58% {
+    58%
+    {
         background-color: rgb(0, 127, 255);
     }
 
-    66% {
+    66%
+    {
         background-color: rgb(0, 0, 255);
     }
 
-    75% {
+    75%
+    {
         background-color: rgb(127, 0, 255);
     }
 
-    83% {
+    83%
+    {
         background-color: rgb(255, 0, 255);
     }
 
-    91% {
+    91%
+    {
         background-color: rgb(255, 0, 127);
     }
 }
 
 /* Transparent rainbow background */
-@keyframes backgroundli {
+@keyframes backgroundli
+{
     100%,
-    0% {
+    0%
+    {
         background-color: rgba(255, 0, 0, .3);
     }
 
-    8% {
+    8%
+    {
         background-color: rgba(255, 127, 0, .3);
     }
 
-    16% {
+    16%
+    {
         background-color: rgba(255, 255, 0, .3);
     }
 
-    25% {
+    25%
+    {
         background-color: rgba(127, 255, 0, .3);
     }
 
-    33% {
+    33%
+    {
         background-color: rgba(0, 255, 0, .3);
     }
 
-    41% {
+    41%
+    {
         background-color: rgba(0, 255, 127, .3);
     }
 
-    50% {
+    50%
+    {
         background-color: rgba(0, 255, 255, .3);
     }
 
-    58% {
+    58%
+    {
         background-color: rgba(0, 127, 255, .3);
     }
 
-    66% {
+    66%
+    {
         background-color: rgba(0, 0, 255, .3);
     }
 
-    75% {
+    75%
+    {
         background-color: rgba(127, 0, 255, .3);
     }
 
-    83% {
+    83%
+    {
         background-color: rgba(255, 0, 255, .3);
     }
 
-    91% {
+    91%
+    {
         background-color: rgba(255, 0, 127, .3);
     }
 }
 
 /* Transparent rainbow text */
-@keyframes textli {
+@keyframes textli
+{
     100%,
-    0% {
+    0%
+    {
         color: rgba(255, 0, 0, .3);
     }
 
-    8% {
+    8%
+    {
         color: rgba(255, 127, 0, .3);
     }
 
-    16% {
+    16%
+    {
         color: rgba(255, 255, 0, .3);
     }
 
-    25% {
+    25%
+    {
         color: rgba(127, 255, 0, .3);
     }
 
-    33% {
+    33%
+    {
         color: rgba(0, 255, 0, .3);
     }
 
-    41% {
+    41%
+    {
         color: rgba(0, 255, 127, .3);
     }
 
-    50% {
+    50%
+    {
         color: rgba(0, 255, 255, .3);
     }
 
-    58% {
+    58%
+    {
         color: rgba(0, 127, 255, .3);
     }
 
-    66% {
+    66%
+    {
         color: rgba(0, 0, 255, .3);
     }
 
-    75% {
+    75%
+    {
         color: rgba(127, 0, 255, .3);
     }
 
-    83% {
+    83%
+    {
         color: rgba(255, 0, 255, .3);
     }
 
-    91% {
+    91%
+    {
         color: rgba(255, 0, 127, .3);
     }
 }
 
 /* KeyFrames for fills */
-@keyframes fill {
+@keyframes fill
+{
     100%,
-    0% {
+    0%
+    {
         fill: rgb(255, 0, 0);
     }
 
-    8% {
+    8%
+    {
         fill: rgb(255, 127, 0);
     }
 
-    16% {
+    16%
+    {
         fill: rgb(255, 255, 0);
     }
 
-    25% {
+    25%
+    {
         fill: rgb(127, 255, 0);
     }
 
-    33% {
+    33%
+    {
         fill: rgb(0, 255, 0);
     }
 
-    41% {
+    41%
+    {
         fill: rgb(0, 255, 127);
     }
 
-    50% {
+    50%
+    {
         fill: rgb(0, 255, 255);
     }
 
-    58% {
+    58%
+    {
         fill: rgb(0, 127, 255);
     }
 
-    66% {
+    66%
+    {
         fill: rgb(0, 0, 255);
     }
 
-    75% {
+    75%
+    {
         fill: rgb(127, 0, 255);
     }
 
-    83% {
+    83%
+    {
         fill: rgb(255, 0, 255);
     }
 
-    91% {
+    91%
+    {
         fill: rgb(255, 0, 127);
     }
 }
