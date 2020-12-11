@@ -1,5 +1,5 @@
 /*
-SOurce here: https://github.com/FIMARx/RainbowSpotify
+Source: https://github.com/FIMARx/RainbowSpotify
 
 This style is made by FIMARx.
 
@@ -26,7 +26,10 @@ Actually spotify made it to disable custom css makers but SIKE!*/
 .f1567c3f58216436b30f34eadfc83a8f-scss,
 ._7361b359df59b81de203cdea92f3f8f6-scss,
 .ed41532bcdf759f4cd19be1a8114dd5d-scss,
-._21cde20d40a70b4f64e79a5e6417c29f-scss
+._21cde20d40a70b4f64e79a5e6417c29f-scss,
+._1066d722d4c5fe45076daa358de0a969-scss,
+._59ed5f1313c7c4b211995d2b6463683f-scss,
+._235729a60d5e265806e8509d8633b779-scss
 {
     background: transparent !important;
 }
@@ -349,7 +352,8 @@ p.lead
 }
 
 ._3e75c7f07bdce28b37b45a5cd74ff371-scss,
-.e3aa92f469b361e8246e422f5f779ed4-scss
+.e3aa92f469b361e8246e422f5f779ed4-scss,
+._5acabdea2ee35e177c1df2bfde71d869-scss
 {
     color: white;
     animation: text 5s linear 0s infinite alternate;
