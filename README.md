@@ -16,8 +16,8 @@ __________
 __________
 > You're done now! Enjoy your RGB Spotify!
 __________
-> **Some pictures**
-
+> # Some pictures
+__________
 > ![image](https://user-images.githubusercontent.com/69573290/101905808-b1f03080-3bc0-11eb-8d4f-d79eb681581c.png)
 __________
 > ![image](https://user-images.githubusercontent.com/69573290/101905961-e368fc00-3bc0-11eb-9615-38dcaefc4b9e.png)
